@@ -19,7 +19,7 @@ accepts@~1.3.3:
 
 acorn-dynamic-import@^2.0.0:
   version "2.0.1"
-  resolved "https://registry.yarnpkg.com/acorn-dynamic-import/-/acorn-dynamic-import-2.0.1.tgz#23f671eb6e650dab277fef477c321b1178a8cca2"
+  resolved "http://kimba.us-west-1.postmates.com/acorn-dynamic-import/-/acorn-dynamic-import-2.0.1.tgz#23f671eb6e650dab277fef477c321b1178a8cca2"
   dependencies:
     acorn "^4.0.3"
 
@@ -170,7 +170,7 @@ asap@~2.0.3:
 
 asn1.js@^4.0.0:
   version "4.9.1"
-  resolved "https://registry.yarnpkg.com/asn1.js/-/asn1.js-4.9.1.tgz#48ba240b45a9280e94748990ba597d216617fd40"
+  resolved "http://kimba.us-west-1.postmates.com/asn1.js/-/asn1.js-4.9.1.tgz#48ba240b45a9280e94748990ba597d216617fd40"
   dependencies:
     bn.js "^4.0.0"
     inherits "^2.0.1"
@@ -977,7 +977,7 @@ bluebird@^3.4.6:
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.4.0:
   version "4.11.6"
-  resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.6.tgz#53344adb14617a13f6e8dd2ce28905d1c0ba3215"
+  resolved "http://kimba.us-west-1.postmates.com/bn.js/-/bn.js-4.11.6.tgz#53344adb14617a13f6e8dd2ce28905d1c0ba3215"
 
 boolbase@~1.0.0:
   version "1.0.0"
@@ -1006,7 +1006,7 @@ braces@^1.8.2:
 
 brorand@^1.0.1:
   version "1.0.6"
-  resolved "https://registry.yarnpkg.com/brorand/-/brorand-1.0.6.tgz#4028706b915f91f7b349a2e0bf3c376039d216e5"
+  resolved "http://kimba.us-west-1.postmates.com/brorand/-/brorand-1.0.6.tgz#4028706b915f91f7b349a2e0bf3c376039d216e5"
 
 browser-resolve@^1.11.2:
   version "1.11.2"
@@ -1016,7 +1016,7 @@ browser-resolve@^1.11.2:
 
 browserify-aes@^1.0.0, browserify-aes@^1.0.4:
   version "1.0.6"
-  resolved "https://registry.yarnpkg.com/browserify-aes/-/browserify-aes-1.0.6.tgz#5e7725dbdef1fd5930d4ebab48567ce451c48a0a"
+  resolved "http://kimba.us-west-1.postmates.com/browserify-aes/-/browserify-aes-1.0.6.tgz#5e7725dbdef1fd5930d4ebab48567ce451c48a0a"
   dependencies:
     buffer-xor "^1.0.2"
     cipher-base "^1.0.0"
@@ -1026,7 +1026,7 @@ browserify-aes@^1.0.0, browserify-aes@^1.0.4:
 
 browserify-cipher@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/browserify-cipher/-/browserify-cipher-1.0.0.tgz#9988244874bf5ed4e28da95666dcd66ac8fc363a"
+  resolved "http://kimba.us-west-1.postmates.com/browserify-cipher/-/browserify-cipher-1.0.0.tgz#9988244874bf5ed4e28da95666dcd66ac8fc363a"
   dependencies:
     browserify-aes "^1.0.4"
     browserify-des "^1.0.0"
@@ -1034,7 +1034,7 @@ browserify-cipher@^1.0.0:
 
 browserify-des@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/browserify-des/-/browserify-des-1.0.0.tgz#daa277717470922ed2fe18594118a175439721dd"
+  resolved "http://kimba.us-west-1.postmates.com/browserify-des/-/browserify-des-1.0.0.tgz#daa277717470922ed2fe18594118a175439721dd"
   dependencies:
     cipher-base "^1.0.1"
     des.js "^1.0.0"
@@ -1042,14 +1042,14 @@ browserify-des@^1.0.0:
 
 browserify-rsa@^4.0.0:
   version "4.0.1"
-  resolved "https://registry.yarnpkg.com/browserify-rsa/-/browserify-rsa-4.0.1.tgz#21e0abfaf6f2029cf2fafb133567a701d4135524"
+  resolved "http://kimba.us-west-1.postmates.com/browserify-rsa/-/browserify-rsa-4.0.1.tgz#21e0abfaf6f2029cf2fafb133567a701d4135524"
   dependencies:
     bn.js "^4.1.0"
     randombytes "^2.0.1"
 
 browserify-sign@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/browserify-sign/-/browserify-sign-4.0.0.tgz#10773910c3c206d5420a46aad8694f820b85968f"
+  resolved "http://kimba.us-west-1.postmates.com/browserify-sign/-/browserify-sign-4.0.0.tgz#10773910c3c206d5420a46aad8694f820b85968f"
   dependencies:
     bn.js "^4.1.1"
     browserify-rsa "^4.0.0"
@@ -1089,11 +1089,11 @@ buffer-shims@^1.0.0:
 
 buffer-xor@^1.0.2:
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/buffer-xor/-/buffer-xor-1.0.3.tgz#26e61ed1422fb70dd42e6e36729ed51d855fe8d9"
+  resolved "http://kimba.us-west-1.postmates.com/buffer-xor/-/buffer-xor-1.0.3.tgz#26e61ed1422fb70dd42e6e36729ed51d855fe8d9"
 
 buffer@^4.3.0:
   version "4.9.1"
-  resolved "https://registry.yarnpkg.com/buffer/-/buffer-4.9.1.tgz#6d1bb601b07a4efced97094132093027c95bc298"
+  resolved "http://kimba.us-west-1.postmates.com/buffer/-/buffer-4.9.1.tgz#6d1bb601b07a4efced97094132093027c95bc298"
   dependencies:
     base64-js "^1.0.2"
     ieee754 "^1.1.4"
@@ -1188,7 +1188,7 @@ chalk@1.1.3, chalk@^1.0.0, chalk@^1.1.0, chalk@^1.1.1, chalk@^1.1.3:
 
 chokidar@^1.4.3, chokidar@^1.6.0:
   version "1.6.1"
-  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-1.6.1.tgz#2f4447ab5e96e50fb3d789fd90d4c72e0e4c70c2"
+  resolved "http://kimba.us-west-1.postmates.com/chokidar/-/chokidar-1.6.1.tgz#2f4447ab5e96e50fb3d789fd90d4c72e0e4c70c2"
   dependencies:
     anymatch "^1.3.0"
     async-each "^1.0.0"
@@ -1207,7 +1207,7 @@ ci-info@^1.0.0:
 
 cipher-base@^1.0.0, cipher-base@^1.0.1:
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/cipher-base/-/cipher-base-1.0.3.tgz#eeabf194419ce900da3018c207d212f2a6df0a07"
+  resolved "http://kimba.us-west-1.postmates.com/cipher-base/-/cipher-base-1.0.3.tgz#eeabf194419ce900da3018c207d212f2a6df0a07"
   dependencies:
     inherits "^2.0.1"
 
@@ -1447,14 +1447,14 @@ cosmiconfig@^2.1.0, cosmiconfig@^2.1.1:
 
 create-ecdh@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/create-ecdh/-/create-ecdh-4.0.0.tgz#888c723596cdf7612f6498233eebd7a35301737d"
+  resolved "http://kimba.us-west-1.postmates.com/create-ecdh/-/create-ecdh-4.0.0.tgz#888c723596cdf7612f6498233eebd7a35301737d"
   dependencies:
     bn.js "^4.1.0"
     elliptic "^6.0.0"
 
 create-hash@^1.1.0, create-hash@^1.1.1:
   version "1.1.2"
-  resolved "https://registry.yarnpkg.com/create-hash/-/create-hash-1.1.2.tgz#51210062d7bb7479f6c65bb41a92208b1d61abad"
+  resolved "http://kimba.us-west-1.postmates.com/create-hash/-/create-hash-1.1.2.tgz#51210062d7bb7479f6c65bb41a92208b1d61abad"
   dependencies:
     cipher-base "^1.0.1"
     inherits "^2.0.1"
@@ -1463,7 +1463,7 @@ create-hash@^1.1.0, create-hash@^1.1.1:
 
 create-hmac@^1.1.0, create-hmac@^1.1.2:
   version "1.1.4"
-  resolved "https://registry.yarnpkg.com/create-hmac/-/create-hmac-1.1.4.tgz#d3fb4ba253eb8b3f56e39ea2fbcb8af747bd3170"
+  resolved "http://kimba.us-west-1.postmates.com/create-hmac/-/create-hmac-1.1.4.tgz#d3fb4ba253eb8b3f56e39ea2fbcb8af747bd3170"
   dependencies:
     create-hash "^1.1.0"
     inherits "^2.0.1"
@@ -1483,7 +1483,7 @@ cryptiles@2.x.x:
 
 crypto-browserify@^3.11.0:
   version "3.11.0"
-  resolved "https://registry.yarnpkg.com/crypto-browserify/-/crypto-browserify-3.11.0.tgz#3652a0906ab9b2a7e0c3ce66a408e957a2485522"
+  resolved "http://kimba.us-west-1.postmates.com/crypto-browserify/-/crypto-browserify-3.11.0.tgz#3652a0906ab9b2a7e0c3ce66a408e957a2485522"
   dependencies:
     browserify-cipher "^1.0.0"
     browserify-sign "^4.0.0"
@@ -1684,7 +1684,7 @@ depd@~1.1.0:
 
 des.js@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/des.js/-/des.js-1.0.0.tgz#c074d2e2aa6a8a9a07dbd61f9a15c2cd83ec8ecc"
+  resolved "http://kimba.us-west-1.postmates.com/des.js/-/des.js-1.0.0.tgz#c074d2e2aa6a8a9a07dbd61f9a15c2cd83ec8ecc"
   dependencies:
     inherits "^2.0.1"
     minimalistic-assert "^1.0.0"
@@ -1711,7 +1711,7 @@ diff@^3.0.0:
 
 diffie-hellman@^5.0.0:
   version "5.0.2"
-  resolved "https://registry.yarnpkg.com/diffie-hellman/-/diffie-hellman-5.0.2.tgz#b5835739270cfe26acf632099fded2a07f209e5e"
+  resolved "http://kimba.us-west-1.postmates.com/diffie-hellman/-/diffie-hellman-5.0.2.tgz#b5835739270cfe26acf632099fded2a07f209e5e"
   dependencies:
     bn.js "^4.1.0"
     miller-rabin "^4.0.0"
@@ -1788,7 +1788,7 @@ ee-first@1.1.1:
 
 elliptic@^6.0.0:
   version "6.3.2"
-  resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.3.2.tgz#e4c81e0829cf0a65ab70e998b8232723b5c1bc48"
+  resolved "http://kimba.us-west-1.postmates.com/elliptic/-/elliptic-6.3.2.tgz#e4c81e0829cf0a65ab70e998b8232723b5c1bc48"
   dependencies:
     bn.js "^4.4.0"
     brorand "^1.0.1"
@@ -1811,7 +1811,7 @@ encoding@^0.1.11:
 
 enhanced-resolve@^3.0.0:
   version "3.0.3"
-  resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-3.0.3.tgz#df14c06b5fc5eecade1094c9c5a12b4b3edc0b62"
+  resolved "http://kimba.us-west-1.postmates.com/enhanced-resolve/-/enhanced-resolve-3.0.3.tgz#df14c06b5fc5eecade1094c9c5a12b4b3edc0b62"
   dependencies:
     graceful-fs "^4.1.2"
     memory-fs "^0.4.0"
@@ -2080,7 +2080,7 @@ eventsource@^0.1.3, eventsource@~0.1.6:
 
 evp_bytestokey@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/evp_bytestokey/-/evp_bytestokey-1.0.0.tgz#497b66ad9fef65cd7c08a6180824ba1476b66e53"
+  resolved "http://kimba.us-west-1.postmates.com/evp_bytestokey/-/evp_bytestokey-1.0.0.tgz#497b66ad9fef65cd7c08a6180824ba1476b66e53"
   dependencies:
     create-hash "^1.1.1"
 
@@ -2149,7 +2149,7 @@ extglob@^0.3.1:
 
 extract-text-webpack-plugin@beta:
   version "2.0.0-beta.5"
-  resolved "https://registry.yarnpkg.com/extract-text-webpack-plugin/-/extract-text-webpack-plugin-2.0.0-beta.5.tgz#595e32ae2466ad2129a928328485fcc064ce57f0"
+  resolved "http://kimba.us-west-1.postmates.com/extract-text-webpack-plugin/-/extract-text-webpack-plugin-2.0.0-beta.5.tgz#595e32ae2466ad2129a928328485fcc064ce57f0"
   dependencies:
     async "^2.1.2"
     loader-utils "^0.2.3"
@@ -2175,7 +2175,7 @@ faye-websocket@^0.10.0:
 
 faye-websocket@~0.11.0:
   version "0.11.0"
-  resolved "https://registry.yarnpkg.com/faye-websocket/-/faye-websocket-0.11.0.tgz#d9ccf0e789e7db725d74bc4877d23aa42972ac50"
+  resolved "http://kimba.us-west-1.postmates.com/faye-websocket/-/faye-websocket-0.11.0.tgz#d9ccf0e789e7db725d74bc4877d23aa42972ac50"
   dependencies:
     websocket-driver ">=0.5.1"
 
@@ -2461,7 +2461,7 @@ gzip-size@3.0.0:
 
 handle-thing@^1.2.4:
   version "1.2.5"
-  resolved "https://registry.yarnpkg.com/handle-thing/-/handle-thing-1.2.5.tgz#fd7aad726bf1a5fd16dfc29b2f7a6601d27139c4"
+  resolved "http://kimba.us-west-1.postmates.com/handle-thing/-/handle-thing-1.2.5.tgz#fd7aad726bf1a5fd16dfc29b2f7a6601d27139c4"
 
 handlebars@^4.0.1, handlebars@^4.0.3:
   version "4.0.6"
@@ -2504,7 +2504,7 @@ has@^1.0.1:
 
 hash.js@^1.0.0:
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/hash.js/-/hash.js-1.0.3.tgz#1332ff00156c0a0ffdd8236013d07b77a0451573"
+  resolved "http://kimba.us-west-1.postmates.com/hash.js/-/hash.js-1.0.3.tgz#1332ff00156c0a0ffdd8236013d07b77a0451573"
   dependencies:
     inherits "^2.0.1"
 
@@ -2538,7 +2538,7 @@ hosted-git-info@^2.1.4:
 
 hpack.js@^2.1.6:
   version "2.1.6"
-  resolved "https://registry.yarnpkg.com/hpack.js/-/hpack.js-2.1.6.tgz#87774c0949e513f42e84575b3c45681fade2a0b2"
+  resolved "http://kimba.us-west-1.postmates.com/hpack.js/-/hpack.js-2.1.6.tgz#87774c0949e513f42e84575b3c45681fade2a0b2"
   dependencies:
     inherits "^2.0.1"
     obuf "^1.0.0"
@@ -2594,7 +2594,7 @@ htmlparser2@~3.3.0:
 
 http-deceiver@^1.2.4:
   version "1.2.7"
-  resolved "https://registry.yarnpkg.com/http-deceiver/-/http-deceiver-1.2.7.tgz#fa7168944ab9a519d337cb0bec7284dc3e723d87"
+  resolved "http://kimba.us-west-1.postmates.com/http-deceiver/-/http-deceiver-1.2.7.tgz#fa7168944ab9a519d337cb0bec7284dc3e723d87"
 
 http-errors@~1.5.0:
   version "1.5.1"
@@ -3332,7 +3332,7 @@ load-json-file@^1.0.0:
 
 loader-runner@^2.2.0:
   version "2.2.0"
-  resolved "https://registry.yarnpkg.com/loader-runner/-/loader-runner-2.2.0.tgz#824c1b699c4e7a2b6501b85902d5b862bf45b3fa"
+  resolved "http://kimba.us-west-1.postmates.com/loader-runner/-/loader-runner-2.2.0.tgz#824c1b699c4e7a2b6501b85902d5b862bf45b3fa"
 
 loader-utils@0.2.x, loader-utils@^0.2.11, loader-utils@^0.2.16, loader-utils@^0.2.3, loader-utils@^0.2.7, loader-utils@~0.2.2, loader-utils@~0.2.5:
   version "0.2.16"
@@ -3534,7 +3534,7 @@ micromatch@^2.1.5, micromatch@^2.3.11:
 
 miller-rabin@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/miller-rabin/-/miller-rabin-4.0.0.tgz#4a62fb1d42933c05583982f4c716f6fb9e6c6d3d"
+  resolved "http://kimba.us-west-1.postmates.com/miller-rabin/-/miller-rabin-4.0.0.tgz#4a62fb1d42933c05583982f4c716f6fb9e6c6d3d"
   dependencies:
     bn.js "^4.0.0"
     brorand "^1.0.1"
@@ -3559,7 +3559,7 @@ mime@1.3.4, mime@^1.3.4:
 
 minimalistic-assert@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/minimalistic-assert/-/minimalistic-assert-1.0.0.tgz#702be2dda6b37f4836bcb3f5db56641b64a1d3d3"
+  resolved "http://kimba.us-west-1.postmates.com/minimalistic-assert/-/minimalistic-assert-1.0.0.tgz#702be2dda6b37f4836bcb3f5db56641b64a1d3d3"
 
 "minimatch@2 || 3", minimatch@^3.0.0, minimatch@^3.0.2, minimatch@^3.0.3:
   version "3.0.3"
@@ -3651,7 +3651,7 @@ node-int64@^0.4.0:
 
 node-libs-browser@^2.0.0:
   version "2.0.0"
-  resolved "https://registry.yarnpkg.com/node-libs-browser/-/node-libs-browser-2.0.0.tgz#a3a59ec97024985b46e958379646f96c4b616646"
+  resolved "http://kimba.us-west-1.postmates.com/node-libs-browser/-/node-libs-browser-2.0.0.tgz#a3a59ec97024985b46e958379646f96c4b616646"
   dependencies:
     assert "^1.1.1"
     browserify-zlib "^0.1.4"
@@ -3779,7 +3779,7 @@ object.omit@^2.0.0:
 
 obuf@^1.0.0, obuf@^1.1.0:
   version "1.1.1"
-  resolved "https://registry.yarnpkg.com/obuf/-/obuf-1.1.1.tgz#104124b6c602c6796881a042541d36db43a5264e"
+  resolved "http://kimba.us-west-1.postmates.com/obuf/-/obuf-1.1.1.tgz#104124b6c602c6796881a042541d36db43a5264e"
 
 on-finished@~2.3.0:
   version "2.3.0"
@@ -3868,7 +3868,7 @@ param-case@2.1.x:
 
 parse-asn1@^5.0.0:
   version "5.0.0"
-  resolved "https://registry.yarnpkg.com/parse-asn1/-/parse-asn1-5.0.0.tgz#35060f6d5015d37628c770f4e091a0b5a278bc23"
+  resolved "http://kimba.us-west-1.postmates.com/parse-asn1/-/parse-asn1-5.0.0.tgz#35060f6d5015d37628c770f4e091a0b5a278bc23"
   dependencies:
     asn1.js "^4.0.0"
     browserify-aes "^1.0.0"
@@ -3939,7 +3939,7 @@ path-type@^1.0.0:
 
 pbkdf2@^3.0.3:
   version "3.0.9"
-  resolved "https://registry.yarnpkg.com/pbkdf2/-/pbkdf2-3.0.9.tgz#f2c4b25a600058b3c3773c086c37dbbee1ffe693"
+  resolved "http://kimba.us-west-1.postmates.com/pbkdf2/-/pbkdf2-3.0.9.tgz#f2c4b25a600058b3c3773c086c37dbbee1ffe693"
   dependencies:
     create-hmac "^1.1.2"
 
@@ -3974,8 +3974,8 @@ pluralize@^1.2.1:
   resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-1.2.1.tgz#d1a21483fd22bb41e58a12fa3421823140897c45"
 
 portfinder@^1.0.9:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/portfinder/-/portfinder-1.0.10.tgz#7a4de9d98553c315da6f1e1ed05138eeb2d16bb8"
+  version "1.0.12"
+  resolved "http://kimba.us-west-1.postmates.com/portfinder/-/portfinder-1.0.12.tgz#94a65114bec64433f9ce2116da33158238ce7ab4"
   dependencies:
     async "^1.5.2"
     debug "^2.2.0"
@@ -4313,7 +4313,7 @@ pseudomap@^1.0.1:
 
 public-encrypt@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/public-encrypt/-/public-encrypt-4.0.0.tgz#39f699f3a46560dd5ebacbca693caf7c65c18cc6"
+  resolved "http://kimba.us-west-1.postmates.com/public-encrypt/-/public-encrypt-4.0.0.tgz#39f699f3a46560dd5ebacbca693caf7c65c18cc6"
   dependencies:
     bn.js "^4.1.0"
     browserify-rsa "^4.0.0"
@@ -4369,7 +4369,7 @@ randomatic@^1.1.3:
 
 randombytes@^2.0.0, randombytes@^2.0.1:
   version "2.0.3"
-  resolved "https://registry.yarnpkg.com/randombytes/-/randombytes-2.0.3.tgz#674c99760901c3c4112771a31e521dc349cc09ec"
+  resolved "http://kimba.us-west-1.postmates.com/randombytes/-/randombytes-2.0.3.tgz#674c99760901c3c4112771a31e521dc349cc09ec"
 
 range-parser@^1.0.3, range-parser@~1.2.0:
   version "1.2.0"
@@ -4663,7 +4663,7 @@ rimraf@2, rimraf@^2.2.8, rimraf@^2.4.3, rimraf@^2.4.4, rimraf@~2.5.1, rimraf@~2.
 
 ripemd160@^1.0.0:
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/ripemd160/-/ripemd160-1.0.1.tgz#93a4bbd4942bc574b69a8fa57c71de10ecca7d6e"
+  resolved "http://kimba.us-west-1.postmates.com/ripemd160/-/ripemd160-1.0.1.tgz#93a4bbd4942bc574b69a8fa57c71de10ecca7d6e"
 
 run-async@^0.1.0:
   version "0.1.0"
@@ -4692,7 +4692,7 @@ sax@^1.1.4, sax@~1.2.1:
 
 select-hose@^2.0.0:
   version "2.0.0"
-  resolved "https://registry.yarnpkg.com/select-hose/-/select-hose-2.0.0.tgz#625d8658f865af43ec962bfc376a37359a4994ca"
+  resolved "http://kimba.us-west-1.postmates.com/select-hose/-/select-hose-2.0.0.tgz#625d8658f865af43ec962bfc376a37359a4994ca"
 
 "semver@2 || 3 || 4 || 5", semver@^5.1.0, semver@^5.3.0, semver@~5.3.0:
   version "5.3.0"
@@ -4755,7 +4755,7 @@ setprototypeof@1.0.2:
 
 sha.js@^2.3.6:
   version "2.4.8"
-  resolved "https://registry.yarnpkg.com/sha.js/-/sha.js-2.4.8.tgz#37068c2c476b6baf402d14a49c67f597921f634f"
+  resolved "http://kimba.us-west-1.postmates.com/sha.js/-/sha.js-2.4.8.tgz#37068c2c476b6baf402d14a49c67f597921f634f"
   dependencies:
     inherits "^2.0.1"
 
@@ -4810,7 +4810,7 @@ sockjs-client@1.0.3:
 
 sockjs-client@1.1.1:
   version "1.1.1"
-  resolved "https://registry.yarnpkg.com/sockjs-client/-/sockjs-client-1.1.1.tgz#284843e9a9784d7c474b1571b3240fca9dda4bb0"
+  resolved "http://kimba.us-west-1.postmates.com/sockjs-client/-/sockjs-client-1.1.1.tgz#284843e9a9784d7c474b1571b3240fca9dda4bb0"
   dependencies:
     debug "^2.2.0"
     eventsource "~0.1.6"
@@ -4821,7 +4821,7 @@ sockjs-client@1.1.1:
 
 sockjs@0.3.18:
   version "0.3.18"
-  resolved "https://registry.yarnpkg.com/sockjs/-/sockjs-0.3.18.tgz#d9b289316ca7df77595ef299e075f0f937eb4207"
+  resolved "http://kimba.us-west-1.postmates.com/sockjs/-/sockjs-0.3.18.tgz#d9b289316ca7df77595ef299e075f0f937eb4207"
   dependencies:
     faye-websocket "^0.10.0"
     uuid "^2.0.2"
@@ -4874,7 +4874,7 @@ spdx-license-ids@^1.0.2:
 
 spdy-transport@^2.0.15:
   version "2.0.18"
-  resolved "https://registry.yarnpkg.com/spdy-transport/-/spdy-transport-2.0.18.tgz#43fc9c56be2cccc12bb3e2754aa971154e836ea6"
+  resolved "http://kimba.us-west-1.postmates.com/spdy-transport/-/spdy-transport-2.0.18.tgz#43fc9c56be2cccc12bb3e2754aa971154e836ea6"
   dependencies:
     debug "^2.2.0"
     hpack.js "^2.1.6"
@@ -4884,7 +4884,7 @@ spdy-transport@^2.0.15:
 
 spdy@^3.4.1:
   version "3.4.4"
-  resolved "https://registry.yarnpkg.com/spdy/-/spdy-3.4.4.tgz#e0406407ca90ff01b553eb013505442649f5a819"
+  resolved "http://kimba.us-west-1.postmates.com/spdy/-/spdy-3.4.4.tgz#e0406407ca90ff01b553eb013505442649f5a819"
   dependencies:
     debug "^2.2.0"
     handle-thing "^1.2.4"
@@ -5032,7 +5032,7 @@ table@^3.7.8:
 
 tapable@^0.2.5, tapable@~0.2.5:
   version "0.2.6"
-  resolved "https://registry.yarnpkg.com/tapable/-/tapable-0.2.6.tgz#206be8e188860b514425375e6f1ae89bfb01fd8d"
+  resolved "http://kimba.us-west-1.postmates.com/tapable/-/tapable-0.2.6.tgz#206be8e188860b514425375e6f1ae89bfb01fd8d"
 
 tar-pack@~3.3.0:
   version "3.3.0"
@@ -5288,7 +5288,7 @@ watch@~0.10.0:
 
 watchpack@^1.2.0:
   version "1.2.0"
-  resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.2.0.tgz#15d4620f1e7471f13fcb551d5c030d2c3eb42dbb"
+  resolved "http://kimba.us-west-1.postmates.com/watchpack/-/watchpack-1.2.0.tgz#15d4620f1e7471f13fcb551d5c030d2c3eb42dbb"
   dependencies:
     async "^2.1.2"
     chokidar "^1.4.3"
@@ -5296,7 +5296,7 @@ watchpack@^1.2.0:
 
 wbuf@^1.1.0, wbuf@^1.4.0:
   version "1.7.2"
-  resolved "https://registry.yarnpkg.com/wbuf/-/wbuf-1.7.2.tgz#d697b99f1f59512df2751be42769c1580b5801fe"
+  resolved "http://kimba.us-west-1.postmates.com/wbuf/-/wbuf-1.7.2.tgz#d697b99f1f59512df2751be42769c1580b5801fe"
   dependencies:
     minimalistic-assert "^1.0.0"
 
@@ -5306,7 +5306,7 @@ webidl-conversions@^3.0.0, webidl-conversions@^3.0.1:
 
 webpack-dev-middleware@^1.9.0:
   version "1.9.0"
-  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-1.9.0.tgz#a1c67a3dfd8a5c5d62740aa0babe61758b4c84aa"
+  resolved "http://kimba.us-west-1.postmates.com/webpack-dev-middleware/-/webpack-dev-middleware-1.9.0.tgz#a1c67a3dfd8a5c5d62740aa0babe61758b4c84aa"
   dependencies:
     memory-fs "~0.4.1"
     mime "^1.3.4"
@@ -5314,8 +5314,8 @@ webpack-dev-middleware@^1.9.0:
     range-parser "^1.0.3"
 
 webpack-dev-server@beta:
-  version "2.2.0-rc.0"
-  resolved "https://registry.yarnpkg.com/webpack-dev-server/-/webpack-dev-server-2.2.0-rc.0.tgz#ea8a11e211d9524b8999945fe5645481a51fdf46"
+  version "2.2.0"
+  resolved "http://kimba.us-west-1.postmates.com/webpack-dev-server/-/webpack-dev-server-2.2.0.tgz#364967eccaf8ff1d7e1681b7a8cc24fab4ced8a6"
   dependencies:
     chokidar "^1.6.0"
     compression "^1.5.2"
@@ -5348,8 +5348,8 @@ webpack-sources@^0.1.0, webpack-sources@^0.1.4:
     source-map "~0.5.3"
 
 webpack@beta:
-  version "2.2.0-rc.7"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-2.2.0-rc.7.tgz#08199749827fe2c21e2ddeb1615893b2b6dde40a"
+  version "2.2.0"
+  resolved "http://kimba.us-west-1.postmates.com/webpack/-/webpack-2.2.0.tgz#09246336b5581c9002353f75bcadb598a648f977"
   dependencies:
     acorn "^4.0.4"
     acorn-dynamic-import "^2.0.0"
